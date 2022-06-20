@@ -1,0 +1,1 @@
+This file is used for learning about branching and merging concepts in git and how to perform it.
